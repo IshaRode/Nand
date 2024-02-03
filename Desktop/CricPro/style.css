@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Poppins&display=swap');
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bg {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    height: 80%;
+
+}
+
+.logo {
+    padding-right: 60px;
+    padding-top: 3px;
+}
+
+p{
+  color: #818181;
+  font-family: poppins;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+h1 {
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 2px #2b2b2b solid;
+}
+
+th {
+    background-color: #F05033;
+}
+
+.batsman {
+    background-color: #FAFAFA;
+}
